@@ -1,0 +1,15 @@
+{
+  "name": "07",
+  "version": "1.0.0",
+  "description": "Start of Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "Harsh Kumar",
+  "license": "ISC"
+}
